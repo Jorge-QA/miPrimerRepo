@@ -1,3 +1,5 @@
+---
+
 name: "📚 Documentación"
 
 about: "Reportar errores o solicitar mejoras en la documentación."
